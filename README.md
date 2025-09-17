@@ -9,7 +9,7 @@ Can we build an accurate and scalable movie recommendation system that suggests 
 Identify the type of learning (classification or regression) and specify the expected output of your selected model. Determine whether supervised or unsupervised learning algorithms will be used.
 
 ## Data Acquisition
-We will be demonstrating a variety of movie recommendation systems for the (MovieLens 1M dataset)[https://grouplens.org/datasets/movielens/1m/]. The dataset contain 1,000,209 anonymous ratings of approximately 3,900 movies made by 6,040 MovieLens users who joined MovieLens in 2000.
+We will be demonstrating a variety of movie recommendation systems for the [MovieLens 1M dataset](https://grouplens.org/datasets/movielens/1m/). The dataset contain 1,000,209 anonymous ratings of approximately 3,900 movies made by 6,040 MovieLens users who joined MovieLens in 2000.
 
 
 ## Data Preprocessing/Preparation: 
