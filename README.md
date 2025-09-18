@@ -40,9 +40,7 @@ We used the [MovieLens 1M dataset](https://grouplens.org/datasets/movielens/1m/)
 - Scalers: StandardScaler
 
 **Train/Test split(s):**
-- Split 1: test_size=?; random_state=?
-- Split 2: test_size=0.2; random_state=42
-- Split 3: test_size=0.2; random_state=42
+- Split 1: test_size=0.2; random_state=42
 
 ## 5) Modeling
 - DecisionTreeClassifier
