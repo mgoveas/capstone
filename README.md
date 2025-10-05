@@ -109,6 +109,7 @@ Our exploratory data analysis (EDA) included:
 - Ratings per user and per movie
 - Correlation heatmaps
 - Feature importance plots
+
 These visualizations highlighted strong user–movie interaction trends and guided feature engineering decisions.
 
 ## Repository Structure
