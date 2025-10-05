@@ -121,6 +121,7 @@ Capstone_Recommender/
 │   ├── movies.csv
 │   ├── ratings.csv
 │   └── users.csv
+```
 
 
 ## Conclusion
