@@ -9,7 +9,7 @@ The project combines **collaborative filtering**, **content-based features**, an
 
 ## Non-Technical Summary (Business Perspective)
 
-### 🎯 Problem Statement
+### Problem Statement
 
 With thousands of movies available, users often experience choice overload, leading to poor engagement and churn. A recommendation system addresses this by **understanding user preferences** and **surfacing relevant titles** automatically.
 
@@ -19,7 +19,7 @@ Our goal:
 * Rank movies to show the most relevant recommendations first.
 
 
-### 📊 Key Insights and Findings
+### Key Insights and Findings
 
 * **User preferences follow distinct patterns** based on genre and past interactions. For example, users who rate "Comedy" movies highly are significantly more likely to enjoy similar titles, even if they haven’t watched them before.
 * Adding **content-based metadata** (like genres and tags) to collaborative signals improved predictive accuracy, especially for the cold-start problem (new users or new movies).
@@ -112,15 +112,15 @@ Our exploratory data analysis (EDA) included:
 These visualizations highlighted strong user–movie interaction trends and guided feature engineering decisions.
 
 ## Repository Structure
+```plaintext
 Capstone_Recommender/
 │
 ├── Capstone_recommender.ipynb    # Main analysis & modeling notebook
 ├── README.md                     # This file – project summary & findings
-├── data/
+├── data/                         # Raw and preprocessed datasets
 │   ├── movies.csv
 │   ├── ratings.csv
 │   └── users.csv
-└── images/                       # Visualization outputs (optional)
 
 
 ## Conclusion
